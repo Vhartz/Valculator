@@ -1,0 +1,8 @@
+Package: calculadora-vhartz
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python3, python3-tk
+Maintainer: Mestre Vhartz <vhartz@example.com>
+Description: Calculadora gráfica simples em Python com Tkinter

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Calculadora Vhartz
+Exec=/usr/local/bin/calculadora-vhartz
+Icon=calculadora-vhartz
+Type=Application
+Categories=Utility;
